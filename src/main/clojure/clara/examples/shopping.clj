@@ -115,5 +115,3 @@
       (print-promotions!))
 
   nil)
-;This runs on compilation and seems to work
-(run-examples)
